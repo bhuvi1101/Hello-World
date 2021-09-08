@@ -1,3 +1,7 @@
 Welcome to Git
 
+<<<<<<< HEAD
 I am dummy line
+=======
+Hello Hi
+>>>>>>> a962803 (Added Hello)

@@ -2,4 +2,12 @@ Welcome to Git
 I am dummy line
 Hello Hi
 
+<<<<<<< HEAD
 
+=======
+Completed
+
+Thank You
+
+Have a nice day
+>>>>>>> 6c9d502 (Added 2 lines extra in Mynew file)
